@@ -32,6 +32,6 @@ Linear functions are functions with the form ax + b, where a and b are constants
 The main distinguishing characteristic of linear functions is that they are graphed as lines.
 Linear functions are defined by their slope and y-intercept. The slope is the change in y per change in x.
 The y-intercept is the y-value when x is equal to 0.
-Linear functions are polynomials, which are functions that can be written in the form a~n~x^n^ + a~n-1~x^n-1^ + ... + a~1~x + a~0~.
-Linear functions being in the a~1~x + a~0~ form.
+Linear functions are polynomials, which are functions that can be written in the form a<sub>n</sub>x<sup>n</sup> + a<sub>n-1</sub>x<sup>n-1</sup> + ... + a<sub>1</sub>x + a<sub>0</sub>.
+Linear functions being in the a<sub>1</sub>x + a<sub>0</sub> form.
 
