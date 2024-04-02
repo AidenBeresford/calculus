@@ -50,3 +50,57 @@ f(x) = (-x)<sup>2</sup> is a reflection over y, while f(x) = -(x<sup>2</sup>) is
 
 ## Chapter 1, Section 3
 ## Trigonometric Functions
+
+Radians are a measurement of angles. We use radians to measure circles. 2pi radians is equal to 360 degrees.
+
+There are 6 basic trigonometric functions, they are as follows:
+Sine (sin) which is equal to the opposite side of the angle divided by the hypotenuse.
+Cosine (cos) which is equal to the adjacent side of the angle divided by the hypotenuse.
+Tangent (tan) which is equal to the opposite side of the angle divided by the adjacent.
+Cosecant (csc) which is equal to the hypotenuse divided by the opposite side of the angle.
+Secant (sec) which is equal to the hypotenuse divided by the adjacent side of the angle.
+Cotangent (cot) which is equal to the adjacent side of the angle divided by the opposite.
+
+Trigonometric identities are rules that are true for all trigonometric functions.
+Tangent is equal to sine over cosine, cotangent is equal to cosine over sine.
+Cosecant is equal to one over sine, secant is equal to one over cosine.
+Sine<sup>2</sup> + cosine<sup>2</sup> is equal to 1.
+1 + tangent<sup>2</sup> is equal to secant<sup>2</sup>.
+1 + cotangent<sup>2</sup> is equal to cosecant<sup>2</sup>.
+
+Since trigonometric functions correspond to locations on the unit circle, the values repeat. This can be graphed as a wave.
+The period of this wave is the distance in x that it takes for the wave to fully repeat.
+Sine, cosine, cosecant, and secant functions all have a period of 2pi. Tangent and cotangent have a period of pi.
+
+Function transformations can be applied to trigonometric functions.
+
+## Chapter 1, Section 4
+## Inverse Functions
+
+Inversing a function is the process of making all the inputs of a function it's outputs, and vice versa. 
+A function is only inversible if it still remains a function after inversing, meaning multiple outputs don't share the same input.
+If you draw a horizontal line on a graph and it intersects with two points of the same function, it cannot be inversible.
+The inverse function of f would be written as f<sup>-1</sup>.
+
+A function like f(x) = x<sup>2</sup> cannot be inverted, but if you restrict the function's domain, you can create an inverse of that restricted function.
+The function f(x) = sqrt(x) is an example of a restricted function inversion, being an inversion of f(x) = x<sup>2</sup> restricted to [0, inf).
+
+## Chapter 1, Section 5
+## Exponential and Logarithmic Functions
+
+Exponential functions are functions of the form b<sup>x</sup> where b is a constant more than 0 and not 1. 
+The b is known as the base, while the x is the exponent.
+
+Logarithmic functions are the inverse of exponential functions.
+Logarithmic is a one-to-one inverse of the exponential function.
+
+Hyperbolic functions are functions defined by operations performed on e<sup>x</sup> and e<sup>-x</sup>.
+Hyperbolic cosine (cosh) is e<sup>x</sup> + e<sup>-x</sup> / 2
+Hyperbolic sine (sinh) is e<sup>x</sup> - e<sup>-x</sup> / 2
+Hyperbolic tangent (tanh) is sinh/cosh
+Hyperbolic cosecant (csch) is 1/sinh
+Hyperbolic secant (sech) is 1/cosh
+Hyperbolic cotangent is cosh/sinh
+
+The trigonometric identities can be applied to the hyperbolic functions as well.
+
