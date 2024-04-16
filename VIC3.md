@@ -42,4 +42,14 @@ And there are also numerous weird edge cases where a function can't be different
 Since the derivative of a function is a derivative, we can find the derivative of that derivative.
 This is known as a higher order derivative.
 
+## Chapter 3, Section 3
+## Differentiation Rules
+
+The derivative of a constant function is always 0.
+The derivative of x<sup>n</sup> is nx<sup>n-1</sup>.
+The derivative of f(x) + g(x) is equal to the derivative of f(x) + the derivative of g(x).
+The derivative of kf(x) is equal to k * the derivative of f(x).
+The derivative of f(x) * g(x) is equal to the derivative of f(x), times g(x) + the derivative of g(x), times f(x).
+The derivative of f(x) / g(x) is equal to the derivative of f(x) * g(x) / (g(x))<sup>2</sup>.
+
 
