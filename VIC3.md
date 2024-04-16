@@ -49,7 +49,29 @@ The derivative of a constant function is always 0.
 The derivative of x<sup>n</sup> is nx<sup>n-1</sup>.
 The derivative of f(x) + g(x) is equal to the derivative of f(x) + the derivative of g(x).
 The derivative of kf(x) is equal to k * the derivative of f(x).
-The derivative of f(x) * g(x) is equal to the derivative of f(x), times g(x) + the derivative of g(x), times f(x).
+The derivative of f(x) * g(x) is equal to the derivative of f(x), times g(x), + the derivative of g(x), times f(x).
 The derivative of f(x) / g(x) is equal to the derivative of f(x) * g(x) / (g(x))<sup>2</sup>.
 
+## Chapter 3, Section 4
+## Derivatives as Rates of Change
+
+If we have a function defined over an interval of [a, a+h] the amount of change would be measured as f(a+h) - f(a).
+The average rate of change for this formula would be f(a+h) - f(a) / h. Instantaneous would be that formula with h approaching 0.
+If we have f' and we know h is small enough, we can use the formula f(a+h) ~= f(a) = f'(a)h to estimate f(a+h).
+
+Derivatives as rates of change can be used to analyze acceleration, population growth, and marginal cost.
+
+## Chapter 3, Section 5
+## Derivatives of Trigonometric Functions
+
+The derivative of sine is cosine, and the derivative of cosine is -sine #mindblown.
+The derivatives of tangent and cotangent are secant<sup>2</sup> and cosecant<sup>2</sup>.
+The derivatives of secant and cosecant are secant * tangent and -cosecant * cotangent.
+
+## Chapter 3, Section 6
+## The Chain Rule
+
+The chain rule states that the derivative of a composite function is the derivative of the outer function
+evaluated at the inner function times the derivative of the inner function.
+i.e. d/dx | sin(x<sup>3</sup>) = cos(x<sup>3</sup> * 3x<sup>2</sup>.
 
