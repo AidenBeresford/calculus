@@ -73,5 +73,33 @@ The derivatives of secant and cosecant are secant * tangent and -cosecant * cota
 
 The chain rule states that the derivative of a composite function is the derivative of the outer function
 evaluated at the inner function times the derivative of the inner function.
-i.e. d/dx | sin(x<sup>3</sup>) = cos(x<sup>3</sup> * 3x<sup>2</sup>.
+i.e. d/dx | sin(x<sup>3</sup>) = cos(x<sup>3</sup> * 3x<sup>2</sup>).
 
+## Chapter 3, Section 7
+## The Derivative of an Inverse Function
+
+If a function is both invertible and differentiable, its inverse is also differentiable.
+If f<sup>-1</sup> is differentiable at a, then it's derivative is equal to 1 / f'(f<sup>-1</sup>(a)).
+
+The derivatives of inverse trigonometric functions are as follows:
+The derivative of inverse sine is 1 / sqrt(1 - (x)<sup>2</sup>).
+The derivative of inverse cosine is -1 * the derivative of inverse sine.
+The derivative of inverse tangent is 1 / 1 + (x)<sup>2</sup>.
+The derivative of inverse cotangent is -1 * the derivative of inverse tangent.
+The derivative of inverse secant is 1 / |x|sqrt((x)<sup>2</sup> - 1).
+The derivative of inverse cosecant is -1 * the derivative of inverse secant.
+
+## Chapter 3, Section 8
+## Implicit Differentiation
+
+An implicit function would be a function defined from an equation where y is not clearly expressed by x.
+For example, the equation y - x<sup>2</sup> = 1 would implicitly define y = x<sup>2</sup> + 1.
+
+Implicit differentiation is used to find the slopes of tangents to non-functions.
+To perform implicit differentiation, follow these steps:
+Derive both sides of the equation.
+Factor out dy/dx.
+Solve for dy/dx by dividing both sides of the equation with an expression.
+
+## Chapter 3, Section 9
+## Derivatives of Exponential and Logarithmic Functions
