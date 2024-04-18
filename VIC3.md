@@ -103,3 +103,7 @@ Solve for dy/dx by dividing both sides of the equation with an expression.
 
 ## Chapter 3, Section 9
 ## Derivatives of Exponential and Logarithmic Functions
+
+The function e<sup>x</sup> is the natural exponential function, and it's inverse lnx is the natural logarithmic function.
+The derivative of e<sup>x</sup> is e<sup>x</sup>.
+The derivative of lnx is 1/x.
